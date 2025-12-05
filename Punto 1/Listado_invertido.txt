@@ -1,0 +1,18 @@
+Nombre: Marta Diaz
+Año de nacimiento: 1999
+Identificación: 1003
+Promedio: 4.5
+Email: marta@example.com
+-----------------------------------
+Nombre: Luis Perez
+Año de nacimiento: 2000
+Identificación: 1002
+Promedio: 3.8
+Email: luis@example.com
+-----------------------------------
+Nombre: Ana Gomez
+Año de nacimiento: 2001
+Identificación: 1001
+Promedio: 4.2
+Email: ana@example.com
+-----------------------------------
